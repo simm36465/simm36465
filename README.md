@@ -1,5 +1,5 @@
 
-## Hello👋, WELCOME TO MY PROFIL!
+## Hello👋, WELCOME TO MY PROFILE!
 I'm MOHAMMED LAKSIR. Technician Specializing in Networks and Computer Systems and also web developer in my Free Time.
 
 <a href="https://twitter.com/LaksirMed" target="_blank">
