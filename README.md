@@ -26,7 +26,7 @@ I'm MOHAMMED LAKSIR. Technician Specializing in Networks and Computer Systems an
   <img alt="https://dr.ph4nt0m.me | Website" height="30px" src="https://img.shields.io/website?logo=google-chrome&url=http://mohammed-laksir.ml&label=my%20portfolio" />
 </a>
 
-## 📝 I’m currently Learning 
+## 📝 I’m currently  
  - WORKING FOR THE GOV MA
 
 ## 🔧 Technologies & tools ...
