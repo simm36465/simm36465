@@ -27,7 +27,7 @@ I'm MOHAMMED LAKSIR. Technician Specializing in Networks and Computer Systems an
 </a>
 
 ## 📝 I’m currently  
- - WORKING FOR THE GOV MA
+ - WORK AND STUDY
 
 ## 🔧 Technologies & tools ...
 
