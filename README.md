@@ -23,7 +23,7 @@ I'm MOHAMMED LAKSIR. Technician Specializing in Networks and Computer Systems an
 
 ## 👦 My Portfolio
 <a href="http://mohammed-laksir.ml" target="_blank">
-  <img alt="https://dr.ph4nt0m.me | Website" height="30px" src="https://img.shields.io/website?logo=google-chrome&url=http://mohammed-laksir.ml&label=my%20portfolio" />
+  <img  height="30px" src="https://img.shields.io/website?logo=google-chrome&url=http://mohammed-laksir.ml&label=my%20portfolio" />
 </a>
 
 ## 📝 I’m currently  
