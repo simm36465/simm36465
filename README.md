@@ -1,7 +1,7 @@
 
 ## Hello👋, WELCOME TO MY PROFILE!
 Hello, my name is MOHAMMED LAKSIR, and I am a Technician specializing in Networks and Computer Systems, as well as a web developer. With 5 years of experience in the field, I have developed a deep understanding and expertise in both areas.
-date: "`r Sys.Date()`"
+
 
 <a href="https://twitter.com/LaksirMed" target="_blank">
   <img alt="LAKSIR MOHAMMED | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
