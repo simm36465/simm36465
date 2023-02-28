@@ -1,6 +1,6 @@
 
 ## Hello👋, WELCOME TO MY PROFILE!
-I'm MOHAMMED LAKSIR. Technician Specializing in Networks and Computer Systems and also web developer in my Free Time.
+Hello, my name is MOHAMMED LAKSIR, and I am a Technician specializing in Networks and Computer Systems, as well as a web developer. With 5 years of experience in the field, I have developed a deep understanding and expertise in both areas.
 
 <a href="https://twitter.com/LaksirMed" target="_blank">
   <img alt="LAKSIR MOHAMMED | Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
