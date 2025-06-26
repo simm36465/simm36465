@@ -48,9 +48,6 @@ Hello, my name is MOHAMMED LAKSIR, and I am a Technician specializing in Network
 - Web Development
 - Linux
 
-## 🔊 Our Community
-[![Discord](https://img.shields.io/discord/715995937272627220.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/3rhJRkF)
-
 ## 📈 GitHub stats ...
 
 <p>
