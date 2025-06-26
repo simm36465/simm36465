@@ -23,8 +23,8 @@ Hello, my name is MOHAMMED LAKSIR, and I am a Technician specializing in Network
 </a>
 
 ## 👦 My Portfolio
-<a href="https://www.simo.great-site.net" target="_blank">
-  <img  height="30px" src="https://img.shields.io/website?logo=google-chrome&url=http://mohammed-laksir.ml&label=my%20portfolio" />
+<a href="http://www.simo.great-site.net" target="_blank">
+  <img  height="30px" src="https://img.shields.io/website?logo=google-chrome&url=https://mohammed-laksir.ml&label=my%20portfolio" />
 </a>
 
 ## 📝 I’m currently  
