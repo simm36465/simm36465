@@ -61,30 +61,10 @@ Full-Stack Developer with **5+ years** of experience building enterprise mobile 
 ### 🏢 ONEE (National Office of Electricity & Water)
 **IT Specialist & Full-Stack Developer** | *January 2021 - Present*
 
-Developing enterprise mobile and web applications for Morocco's national utilities company.
-
-- Built Flutter mobile apps for field operations and customer services
-- Developed Laravel-based web platforms for internal management
-- Created RESTful APIs connecting mobile and web systems
-- Implemented secure authentication and payment systems
-- Database design and optimization for high-traffic applications
-
-**Tech Stack:** Flutter, Laravel, PHP, MySQL, JavaScript, Firebase
-
 ---
 
 ### 🏛️ Ministry of Tourism - Morocco
 **Mobile & Web Developer** | *February 2020 - December 2021*
-
-Developed tourism promotion platforms and mobile applications.
-
-- Built cross-platform mobile apps using Flutter (iOS & Android)
-- Created multilingual web portals with Laravel framework (Arabic, French, English)
-- Developed tourist information systems and booking platforms
-- Implemented government-grade security standards
-- API integration with third-party tourism services
-
-**Tech Stack:** Flutter, Dart, Laravel, PHP, MySQL, Google Maps API
 
 ---
 
@@ -172,51 +152,6 @@ Université Mohammed-V de Rabat
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 📱 Tourism Mobile Application
-Cross-platform Flutter app for Morocco's tourism sector
-
-**Features:**
-- Multilingual support (Arabic, French, English)
-- Interactive maps and tourist guides
-- Offline mode for remote areas
-- Push notifications for events and updates
-- Firebase backend integration
-
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Google Maps API` `Provider`
-
----
-
-### 🌐 E-Government Portal
-Web platform for public services and information
-
-**Features:**
-- Multilingual interface with RTL support for Arabic
-- Secure user authentication and authorization
-- Document management system
-- Responsive design for all devices
-- High-traffic optimization
-
-**Tech Stack:** `Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
-
----
-
-### ⚡ Utility Management System
-Enterprise mobile solution for field operations
-
-**Features:**
-- Real-time data synchronization
-- Offline-first architecture for field work
-- GPS tracking and mapping
-- Photo/document upload capabilities
-- API integration with backend systems
-
-**Tech Stack:** `Flutter` `Laravel API` `PostgreSQL` `Google Maps` `SQLite`
-
----
 
 ## 💡 Services I Offer
 
