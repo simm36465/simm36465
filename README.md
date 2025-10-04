@@ -161,10 +161,10 @@ Université Mohammed-V de Rabat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-laksir-402a96158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/laksir-mohammed)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01e104038b1ee0d2b2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](http://www.simo.great-site.net)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.laksir1997@gmail.com)
 
 **📍 Location:** Casablanca, Morocco 🇲🇦  
 **💼 Status:** Available for Freelance & Contract Work  
