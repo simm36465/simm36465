@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
   
 # 👋 Hi, I'm Mohammed Laksir
@@ -288,4 +287,3 @@ const services = {
 **⭐ If you like my work, consider starring some of my repositories!**
 
 </div>
-```
